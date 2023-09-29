@@ -14,7 +14,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BautyGarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BautyGarcia&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BautyGarcia&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 😂 Laugh a Bit
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
