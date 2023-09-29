@@ -1,3 +1,7 @@
+<h1 align="center">Hey 👋, I'm Bauty</h1>
+<h3 align="center">Passionate web developer from Argentina</h3>
+<br>
+
 # 💫 About Me:
 👷‍♂️ Currently working on PrintIT<br>🤝 Looking forward to collaborate with people<br>🙋‍♂️ Ask me about Express, tRPC, Prisma, Nextjs, TailwindCSS<br>🏫 ORT Argentina
 
