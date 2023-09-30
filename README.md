@@ -5,11 +5,13 @@
 <h3 align="center">A passionate software developer from Argentina</h3>
 
 <div align="center">
-👷‍♂️ Currently working on **PrintIT**	<br>
+
+👷‍♂️ Currently working on **PrintIT**<br>
 🤝 Looking forward to **collaborate with people**	<br>
 🙋‍♂️ Ask me about **Express, tRPC, Prisma, Nextjs, TailwindCSS... or anything**<br>
 🏫 **ORT Argentina**
- </div>
+
+</div>
 
 <br/>
 
