@@ -22,7 +22,7 @@
     <a href="https://instagram.com/BautyGarcia" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-      <a href="https://linkedin.com/in/bauty-garcia-b6ab50162" target="_blank">
+      <a href="https://www.linkedin.com/in/bautista-garcia-b6ab50162/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
       <a href="https://twitter.com/bautyjitsu" target="_blank">
