@@ -9,6 +9,7 @@ Full-stack developer in Buenos Aires, Argentina. I build and run production web 
 - **Founding Full-Stack Engineer at 4.0 MedTech Solutions.** Sole developer of Pregma+, a patient-management platform for obstetricians and gynecologists, with an AI clinical assistant and encrypted clinical records. Next.js, TypeScript, Firebase, Google Gemini API.
 - **Freelance.** E-commerce store for Rimmel Eyewear, booking platform with online payments for [Las Calandrias](https://github.com/BautyGarcia/calandrias), sales management PWA for Dragon Black Force.
 - **[dbm](https://github.com/BautyGarcia/DBManager).** A CLI that turns one VPS into a self-hosted database platform: per-app Postgres, S3 storage, deploys and backups. It hosts production client databases.
+- **[Gobbie](https://github.com/BautyGarcia/Gobbie).** Speech emotion recognition with self-supervised audio embeddings (WavLM, HuBERT, wav2vec2): 0.89 accuracy on RAVDESS with speaker-independent validation, plus a real-time demo. Python, PyTorch.
 
 Most client code lives in private repositories.
 
